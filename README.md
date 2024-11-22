@@ -1,6 +1,6 @@
 # **Global Solution 2024 - Pegada de Carbono**
 
-## **Abstract (Resumo do Projeto)**
+## **Resumo do Projeto**
 Este projeto visa analisar a pegada de carbono global e comparar as emissões entre o Brasil e outros grupos como América, OCDE e EUA. Usamos aprendizado de máquina e estatística descritiva para gerar insights visuais e quantitativos sobre emissões globais. Além disso, enriquecemos os dados utilizando APIs e exploramos visualizações avançadas para comunicar os resultados.
 
 ---
